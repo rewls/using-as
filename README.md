@@ -20,7 +20,7 @@
 
 - 6 Expressions - 47
 
-- 7 Assembler Directives - 51
+- [7 Assembler Directives](07-assembler-directives.md) - 51
 
 - 8 Object Attributes - 91
 
