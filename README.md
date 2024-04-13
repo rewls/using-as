@@ -24,7 +24,7 @@
 
 - 8 Object Attributes - 91
 
-- 9 Machine Dependent Features - 95
+- [9 Machine Dependent Features](09-machine-dependent-features.md) - 95
 
 - 10 Reporting Bugs - 405
 
